@@ -1,0 +1,62 @@
+
+/* Home  */
+.card-head{
+    font-family: 'Rubik Distressed', cursive;
+}
+.card-data{
+    font-family: 'Cedarville Cursive', cursive;
+}
+.card_right{
+    min-height: 583px;
+}
+.image_2_weather{
+    border-radius: 5px;
+    margin-left: 125px;
+}
+
+/* weather  */
+
+
+.main{
+    background-color: rgb(221, 214, 214);
+    min-height: 501px;
+}
+.search_area{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.search_btn{
+    background-color: rgba(231, 154, 225, 0.582);
+    border-radius: 6px;
+    border: 2px solid rgb(70, 137, 182);
+}
+
+
+
+
+
+.box{
+    background-color: rgba(79, 169, 230, 0.664);
+    min-height: 75vh;
+    margin: 25px 312px;
+    border-radius: 6%;
+    padding: 15px;
+}
+
+@media (max-width: 950px) {
+    .box{
+        margin: 0px;
+    }
+  }
+
+
+  .about_page{
+    background-color: rgb(197, 224, 222);
+  }
+
+
+.earth_logo{
+    width: 5%;
+}
