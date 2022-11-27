@@ -14,11 +14,16 @@
     margin-left: 125px;
 }
 
+
+.index_main{
+    background-color: rgb(112, 111, 111);
+}
+
 /* weather  */
 
 
 .main{
-    background-color: rgb(221, 214, 214);
+    background-color: rgba(182, 174, 174, 0.774);
     min-height: 501px;
 }
 .search_area{
